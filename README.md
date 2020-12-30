@@ -2,6 +2,8 @@
 
 Various Scripts to Calculate Pi using python
 
+Requires gmpy2 software(a python version of GMP Multi-precision reals and large integer arithmetic)
+
 brentsalamin.py, chudnovskybsonecore.py, machinsformula.py, and machinsformulabs.py calculate pi using various algorithms.
 
 chudnovskybsonecore.py is the fastest in most cases. 
